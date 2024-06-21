@@ -1,0 +1,256 @@
+modbus_registers:
+  - REGISTER_ADDRESS: 30001
+    BYTE: 0
+    REGISTER_NAME: 평균 전압
+    UNIT: V
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30003
+    BYTE: 2
+    REGISTER_NAME: 평균 전류
+    UNIT: A
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30005
+    BYTE: 4
+    REGISTER_NAME: A상 전류
+    UNIT: A
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30007
+    BYTE: 6
+    REGISTER_NAME: B상 전류
+    UNIT: A
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30009
+    BYTE: 8
+    REGISTER_NAME: C상 전류
+    UNIT: A
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30011
+    BYTE: 10
+    REGISTER_NAME: A상 전압
+    UNIT: V
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30013
+    BYTE: 12
+    REGISTER_NAME: B상 전압
+    UNIT: V
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30015
+    BYTE: 14
+    REGISTER_NAME: C상 전압
+    UNIT: V
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30017
+    BYTE: 16
+    REGISTER_NAME: AB상 선간전압
+    UNIT: V
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30019
+    BYTE: 18
+    REGISTER_NAME: BC상 선간전압
+    UNIT: V
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30021
+    BYTE: 20
+    REGISTER_NAME: CA상 선간전압
+    UNIT: V
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30023
+    BYTE: 22
+    REGISTER_NAME: 역률
+    UNIT: F / R
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30025
+    BYTE: 24
+    REGISTER_NAME: TOTAL 유효전력
+    UNIT: W
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30027
+    BYTE: 26
+    REGISTER_NAME: TOTAL 무효전력
+    UNIT: Var
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30029
+    BYTE: 28
+    REGISTER_NAME: TOTAL 피상전력
+    UNIT: VA
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30031
+    BYTE: 30
+    REGISTER_NAME: 주파수
+    UNIT: Hz
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30033
+    BYTE: 32
+    REGISTER_NAME: 순방향유효전력량
+    UNIT: Wh
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30035
+    BYTE: 34
+    REGISTER_NAME: 순방향무효전력량
+    UNIT: Varh
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30037
+    BYTE: 36
+    REGISTER_NAME: 피상전력량
+    UNIT: VAh
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30039
+    BYTE: 38
+    REGISTER_NAME: A상 부하율
+    UNIT: %
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30041
+    BYTE: 40
+    REGISTER_NAME: B상 부하율
+    UNIT: %
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30043
+    BYTE: 42
+    REGISTER_NAME: C상 부하율
+    UNIT: %
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30045
+    BYTE: 44
+    REGISTER_NAME: 역방향유효전력량
+    UNIT: Wh
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30047
+    BYTE: 46
+    REGISTER_NAME: 역방향무효전력량
+    UNIT: Varh
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30049
+    BYTE: 48
+    REGISTER_NAME: A상 유효전력
+    UNIT: W
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30051
+    BYTE: 50
+    REGISTER_NAME: B상 유효전력
+    UNIT: W
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30053
+    BYTE: 52
+    REGISTER_NAME: C상 유효전력
+    UNIT: W
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30055
+    BYTE: 54
+    REGISTER_NAME: A상 무효전력
+    UNIT: Var
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30057
+    BYTE: 56
+    REGISTER_NAME: B상 무효전력
+    UNIT: Var
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30059
+    BYTE: 58
+    REGISTER_NAME: C상 무효전력
+    UNIT: Var
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30061
+    BYTE: 60
+    REGISTER_NAME: A상 피상전력
+    UNIT: VA
+    FORMAT: F004
+    속성: R
+    SWAP: O
+
+  - REGISTER_ADDRESS: 30063
+    BYTE: 62
+    REGISTER_NAME: B상 피상전력
+    UNIT: VA
+    FORMAT: F004
+    속성: R
+    SWAP: O

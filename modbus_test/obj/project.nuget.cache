@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sLD4iQ+OLX8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\f1soft\\Desktop\\새 폴더\\NModbusTCP\\modbus_test\\modbus_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f1soft\\.nuget\\packages\\nmodbus\\3.0.81\\nmodbus.3.0.81.nupkg.sha512",
+    "C:\\Users\\f1soft\\.nuget\\packages\\yamldotnet\\15.1.6\\yamldotnet.15.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

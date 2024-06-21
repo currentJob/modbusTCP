@@ -1,0 +1,79 @@
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_test.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_test.AssemblyInfo.cs
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\modbus_test\modbus_test\bin\Debug\net8.0-windows\modbus_test.exe
+C:\Users\admin\source\repos\modbus_test\modbus_test\bin\Debug\net8.0-windows\modbus_test.deps.json
+C:\Users\admin\source\repos\modbus_test\modbus_test\bin\Debug\net8.0-windows\modbus_test.runtimeconfig.json
+C:\Users\admin\source\repos\modbus_test\modbus_test\bin\Debug\net8.0-windows\modbus_test.dll
+C:\Users\admin\source\repos\modbus_test\modbus_test\bin\Debug\net8.0-windows\modbus_test.pdb
+C:\Users\admin\source\repos\modbus_test\modbus_test\bin\Debug\net8.0-windows\YamlDotNet.dll
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_test.Form1.resources
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_t.5D5CF056.Up2Date
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_test.dll
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\refint\modbus_test.dll
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_test.pdb
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\modbus_test.genruntimeconfig.cache
+C:\Users\admin\source\repos\modbus_test\modbus_test\obj\Debug\net8.0-windows\ref\modbus_test.dll
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\bin\Debug\net8.0-windows\modbus_test.exe
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\bin\Debug\net8.0-windows\YamlDotNet.dll
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.AssemblyReference.cache
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_test.Form1.resources
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.GenerateResource.cache
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_test.AssemblyInfoInputs.cache
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_test.AssemblyInfo.cs
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.CoreCompileInputs.cache
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_t.5D5CF056.Up2Date
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_test.dll
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\refint\modbus_test.dll
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_test.pdb
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\bin\Debug\net8.0-windows\modbus_test.deps.json
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\bin\Debug\net8.0-windows\modbus_test.runtimeconfig.json
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\bin\Debug\net8.0-windows\modbus_test.dll
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\bin\Debug\net8.0-windows\modbus_test.pdb
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\modbus_test.genruntimeconfig.cache
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\obj\Debug\net8.0-windows\ref\modbus_test.dll
+D:\workspace\npp\repo\npp-rtms-app\modbus_test\bin\Debug\net8.0-windows\NModbus.dll
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\bin\Debug\net8.0-windows\modbus_test.exe
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\bin\Debug\net8.0-windows\modbus_test.deps.json
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\bin\Debug\net8.0-windows\modbus_test.runtimeconfig.json
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\bin\Debug\net8.0-windows\modbus_test.dll
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\bin\Debug\net8.0-windows\modbus_test.pdb
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\bin\Debug\net8.0-windows\NModbus.dll
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\bin\Debug\net8.0-windows\YamlDotNet.dll
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.AssemblyReference.cache
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_test.Form1.resources
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.GenerateResource.cache
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_test.AssemblyInfoInputs.cache
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_test.AssemblyInfo.cs
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.CoreCompileInputs.cache
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_t.5D5CF056.Up2Date
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_test.dll
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\refint\modbus_test.dll
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_test.pdb
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\modbus_test.genruntimeconfig.cache
+C:\Users\f1soft\Desktop\npp-rtms-app-dhseo\modbus_test\obj\Debug\net8.0-windows\ref\modbus_test.dll
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\bin\Debug\net8.0-windows\modbus_test.exe
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\bin\Debug\net8.0-windows\modbus_test.deps.json
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\bin\Debug\net8.0-windows\modbus_test.runtimeconfig.json
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\bin\Debug\net8.0-windows\modbus_test.dll
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\bin\Debug\net8.0-windows\modbus_test.pdb
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\bin\Debug\net8.0-windows\NModbus.dll
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\bin\Debug\net8.0-windows\YamlDotNet.dll
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.AssemblyReference.cache
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_test.Form1.resources
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.GenerateResource.cache
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_test.AssemblyInfoInputs.cache
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_test.AssemblyInfo.cs
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_test.csproj.CoreCompileInputs.cache
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_t.5D5CF056.Up2Date
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_test.dll
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\refint\modbus_test.dll
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_test.pdb
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\modbus_test.genruntimeconfig.cache
+C:\Users\f1soft\Desktop\새 폴더\NModbusTCP\modbus_test\obj\Debug\net8.0-windows\ref\modbus_test.dll
