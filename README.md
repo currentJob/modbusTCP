@@ -1,25 +1,31 @@
-#### 클라이언트 (modbus_test)
+## Modbus TCP 통신 예제
 
-- Modbus TCP 서버에 연결하여 데이터를 읽고 쓸 수 있는 GUI 기반 클라이언트입니다.
-- 사용자가 서버의 IP 주소, 포트, 슬레이브 ID, 레지스터 주소 및 레지스터 수를 입력하여 데이터를 읽을 수 있습니다.
-- IModbusClient 인터페이스를 사용하여 ModbusTcpClient 클래스를 통해 실제 Modbus TCP 통신을 처리합니다.
+이 프로젝트는 NModbus 라이브러리를 사용하여 Modbus TCP 클라이언트 및 슬레이브를 구현하는 예제 코드입니다. 산업 자동화 시스템에서 장치 간 데이터 통신에 널리 사용되는 Modbus TCP 프로토콜을 이해하고 활용하는 데 도움이 될 것입니다.
 
-#### 슬레이브 (ModbusTcpSlave)
+### 주요 기능
 
-- Modbus TCP 슬레이브를 구현하여 클라이언트의 요청에 응답합니다.
-- register_info.yaml 파일에서 레지스터 구성 정보를 읽어와 슬레이브의 데이터 저장소를 초기화합니다.
-- PascalCaseNamingConvention을 사용하여 YAML 파일의 필드 이름을 C# 클래스의 속성 이름과 일치시킵니다.
-- 레지스터 값은 난수로 초기화되며, 클라이언트 요청에 따라 값을 읽거나 쓸 수 있습니다.
+**클라이언트 (modbus\_test)**
 
----
-#### 주요 파일:
+*   Modbus TCP 서버 (슬레이브)에 연결
+*   홀딩 레지스터 읽기
+*   레지스터 쓰기 (미구현)
+*   연결 및 통신 상태 표시
 
-- Form1.cs: 클라이언트 UI 및 이벤트 처리 로직
-- Form1.Designer.cs: 클라이언트 UI 디자인
-- IModbusClient.cs: Modbus 클라이언트 인터페이스
-- ModbusTcpClient.cs: NModbus를 사용한 Modbus TCP 클라이언트 구현
-- Program.cs (클라이언트): 클라이언트 애플리케이션 시작점
-- Program.cs (슬레이브): 슬레이브 애플리케이션 시작점
-- TcpClientWrapper.cs: TCP 클라이언트 래퍼 클래스
-- RegisterConfig.cs: 레지스터 구성 정보를 담는 클래스
-- register_info.yaml: 레지스터 구성 정보 YAML 파일
+**슬레이브 (ModbusTcpSlave)**
+
+*   Modbus TCP 서버 (슬레이브) 실행
+*   'register\_info.yaml' 파일에서 레지스터 구성 정보 로드
+*   클라이언트의 레지스터 읽기/쓰기 요청 처리
+*   레지스터 값 랜덤 초기화
+
+### 사용 방법
+
+1.  **클라이언트 실행:**
+    *   modbus\_test 프로젝트를 빌드하고 실행합니다.
+    *   텍스트 상자에 슬레이브의 IP 주소, 포트 번호, 슬레이브 ID, 레지스터 주소, 레지스터 개수를 입력합니다.
+    *   "Connect" 버튼을 눌러 슬레이브에 연결합니다.
+    *   "Read" 버튼을 눌러 홀딩 레지스터 값을 읽어옵니다.
+
+2.  **슬레이브 실행:**
+    *   NModbus\_Slave2 프로젝트를 빌드하고 실행합니다.
+    *   슬레이브는 자동으로 'register\_info.yaml' 파일을 읽어 레지스터를 구성하고 클라이언트의 요청을 기다립니다.
